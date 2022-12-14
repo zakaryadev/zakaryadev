@@ -3,4 +3,3 @@
 #### 🌱 I’m currently learning Web Development and working with own projects
 #### 💞️ I’m love ReactJS
 #### 📫 How to reach me Email: zakaryamuratbaev13@gmail.com
-[![a!](https://cdn.devdojo.com/users/August2022/zakaryamuratbaev13.jpg)]
