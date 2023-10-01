@@ -1,5 +1,5 @@
 # 💫 About Me:
-• JavaScript Developer <br>• Turning to Laravel... FullStack<br>• 19 y.o <br>• From Karakalpakstan <br>• Student TUIT Nukus Branch<br>
+• JavaScript Developer <br>• Turning to Laravel... FullStack<br>• 20 y.o <br>• From Karakalpakstan <br>• Student TUIT Nukus Branch<br>
 
 
 ## 🌐 Socials:
